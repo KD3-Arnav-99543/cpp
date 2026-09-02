@@ -5,9 +5,6 @@ Haan bhai 👍 ab README mein **Assignment 1–8** reflect hona chahiye, aur tho
 
 A collection of C and C++ assignments, practice programs, and coursework completed during my programming journey.
 
-![C++](https://img.shields.io/badge/C++-90.6%25-00599C?logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-9.4%25-A8B9CC?logo=c&logoColor=white)
-
 ## 📂 Repository Structure
 
 ```text
